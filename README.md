@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thanuja-Madala
-- 👀 I’m interested in Computer Programming, Cyber Security
-- 🌱 I’m currently learning Computer Science
+- 👀 I’m interested in Computer Programming, Cyber Security,data analyst,ai engineer,devops,cloud
+- 🌱 I’m currently learning artificial intelligence and machine learning
 - 💞️ I’m looking to collaborate on Programming Topics
 - 📫 How to reach me (madala.thanuja2005@gmail.com)
 
